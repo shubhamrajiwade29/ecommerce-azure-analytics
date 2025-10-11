@@ -1,6 +1,5 @@
 # E-Commerce Analytics on Azure (ADF → Blob → Databricks → Power BI)
 
-This repo contains a compact, interview-ready analytics stack:
 **Azure Data Factory** → **Azure Blob Storage** → **Databricks (PySpark)** → **Power BI**.
 
 - **KPIs**: Total Revenue, Orders, AOV, Customers  
