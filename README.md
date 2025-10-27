@@ -38,11 +38,6 @@ An end-to-end Azure data pipeline delivering actionable business insights for e-
 - Achieved real-time dashboard updates
 - Used by analytics teams for faster data-driven decisions
 
-## Contact
-For queries or collaboration:
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-
 ## License
 MIT
 
